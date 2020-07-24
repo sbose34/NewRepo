@@ -1,3 +1,3 @@
 # NewRepo
 This is my helloworld project
-Program.cs is the helloworld file.
+Program.cs is the program file of Hello_World.
